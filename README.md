@@ -6,4 +6,3 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-![Snake animation](https://github.com/matheus152523/matheus152523/blob/output/github-contribution-grid-snake.svg)
